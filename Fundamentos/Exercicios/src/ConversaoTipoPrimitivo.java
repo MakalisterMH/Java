@@ -12,7 +12,7 @@ public class ConversaoTipoPrimitivo {
 
         /* Obs: se atentar ao tamanho dos tipos, os menores cabem dentro dos maiores ...
          os maiores podem ser convertido para o menor ... porem você assume o risto de perder informação. */
-        
+
     }
 }
 
